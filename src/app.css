@@ -23,3 +23,30 @@
     padding: 10px;
     margin: 10px;
 }
+
+.prompt {
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.droplet {
+    font-size: 40px;
+    color: rgb(213, 242, 252);
+    margin: 15px;
+    padding: 5px
+}
+
+.droplet:hover {
+    transform: scale(1.25);
+    color: rgb(148, 205, 224);
+    border: 2px solid lightcoral;
+    border-radius: 10px;
+}
+
+.totalWater {
+    font-size: 40px;
+    padding: 10px;
+    margin: 10px;
+}
+
