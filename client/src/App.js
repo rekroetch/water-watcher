@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+// click water drop and have animation so it falls into a bucket
